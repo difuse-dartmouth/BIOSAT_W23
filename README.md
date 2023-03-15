@@ -2,7 +2,7 @@
 
 ## Contributors: Andy Bean ('23), May Oo Khine ('23), Emma Nguyen ('25), Professor Petra Bonfert-Taylor (PI), and Professor Lorie Loeb (PI)
 
-![Sample title slide for a DIFUSE module.](repository-assets/DIFUSE-sample.png)
+![Sample title slide for a DIFUSE module.](repository-assets/DIFUSE-bio-sat.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
