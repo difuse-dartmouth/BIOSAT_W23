@@ -29,4 +29,10 @@ The *data* subfolder contains the JSON format shapefiles for creating the maps a
 
 The *logistics* subfolder contains several documents which assist with understanding, using, and modifying this module if desired.
 
-This module is still in progress as of 2/18/23
+## Version History
+
+03.19.2023 - This module was made public
+04.05.2023 - The Colab file was updated to version 1.1 to fix an issue with the ipywidgets visualization of plotly figures. 
+
+
+
