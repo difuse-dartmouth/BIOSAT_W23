@@ -32,6 +32,7 @@ The *logistics* subfolder contains several documents which assist with understan
 ## Version History
 
 03.19.2023 - This module was made public
+
 04.05.2023 - The Colab file was updated to version 1.1 to fix an issue with the ipywidgets visualization of plotly figures. 
 
 
