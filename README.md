@@ -17,7 +17,7 @@ Professor Guerra's course, Remote Sensing, introduces students to working with A
 
 ## [Click here for module materials](completed_module/README.md)
 
-For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/data-migration-template/commits/main/).
+For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/BIOSAT_W23/commits/main/).
 
 ## Folder Structure
 
