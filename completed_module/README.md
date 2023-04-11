@@ -1,4 +1,4 @@
-# PS/CS 211: Remote Sensing and BIO 102: Explorations in Biology I <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
+# PS/CS 211: Remote Sensing and BIO 102: Explorations in Biology I <a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdifuse-dartmouth%2FBIOSAT_W23%2Ftree%2Fmain%2Fcompleted_module"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
 
 This repository contains all the components of the data science module for Saint Anselm College's PS/CS 211: Remote Sensing and Goucher College's BIO 1-2: Explorations in Biology I: Life in Context.  Click the icon next to the course name above to download the entire module.
 
@@ -20,5 +20,5 @@ Use this page to get an idea of the timeline of the module, what components are 
 
 | Date             |  In/Out of Class | Assignment Description                     | Assignment Files (Linked to Repository Contents) |
 |------------------|-----------------|--------------------------------------------------|--------------------------------------------------|
-| Day 1 | In or out of class    | Pre-Lab Assignment: introduction to the data, PCA and K-means analysis  |[Pre-Lab](completed_module/components/assignment1/XXX) |
-| Day 2 | Start in class, finish out of class  | Lab Assignment: analyzing and visualizing data, testing hypothesis and drawing conclusions |[Lab](completed_module/public/components/assignment2/XXX) |
+| Day 1 | In or out of class    | Pre-Lab Assignment: introduction to the data, PCA and K-means analysis  |[Pre-Lab](components/assignment1) |
+| Day 2 | Start in class, finish out of class  | Lab Assignment: analyzing and visualizing data, testing hypothesis and drawing conclusions |[Lab](components/assignment2) |
