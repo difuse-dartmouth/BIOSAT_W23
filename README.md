@@ -1,6 +1,6 @@
 # BIOSAT 23W DIFUSE Module 
 
-## Contributors: Andy Bean ('23), May Oo Khine ('23), Emma Nguyen ('25), David Guerra (Professor at Saint Anselm College), Jay Garaycochea (Professor at Goucher College), Professor Petra Bonfert-Taylor (Professor of Engineering, DIFUSE PI), and Professor Lorie Loeb (Professor of Engineering, DIFUSE PI)
+## Contributors: Andy Bean ('23), May Oo Khine ('23), Emma Nguyen ('25), David Guerra (Professor of Physics, Saint Anselm College), Jay Garaycochea (Professor of Biology, Goucher College), Professor Petra Bonfert-Taylor (Professor of Engineering, DIFUSE PI), and Professor Lorie Loeb (Professor of Engineering, DIFUSE PI)
 
 ![Sample title slide for a DIFUSE module.](repository-assets/DIFUSE-bio-sat.png)
 
