@@ -17,7 +17,7 @@ Provide students an opportunity to create and test a hypothesis about their area
 1.	Interpret and describe data detailing biological factors in nature to understand what each value and its units mean in context
 2.  Create and evaluate a hypothesis about an interaction between land-use data and population data using Principal Component Analysis to reduce factors and then a k-means test to classify groups of data
 3.  Interpret and draw conclusions from plots of data to make decisions about the trend of a biological interaction, and whether it is beneficial or detrimental 
-4.  
+
 ## Module Description 
 These courses intersect in the interactions between anthropological land use and the ecosystems that develop on that land. This module teaches data analysis and visualization on a data set in this domain: land use in Massachusetts, Connecticut, Maryland, and New Hampshire, and basic weather data, White-Tailed Deer Population, and the incidence of Lyme disease. Students are introduced to the data set and the goals of analysis in the pre-lab, and then are walked through the data in table format, map format, and PCA and k-means plots in the main lab assignment. These plots are interactively produced through the use of a Google Colab file running python script, while the lab and pre-lab assignments are Canvas quizzes which live in Canvas Commons.  
 ## Schedule and Links
